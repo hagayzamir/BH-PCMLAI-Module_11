@@ -20,3 +20,4 @@ There are 4 key feature which have the higest corralation to the price. Our cust
 Given the finding and additional observations my recomendations are to park the desired cars on the out skirts of the parking lot so they become visible to potential customers as they drive by. The cars I recomend to park are silver pickup trucks at first, then white / black SUVs.
 
 ## Links
+The link to the jupyter notebook used, supporting these findings can be found [here](https://github.com/hagayzamir/BH-PCMLAI-Module_11/blob/main/prompt_II.ipynb)
