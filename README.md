@@ -2,7 +2,7 @@
 This project contains the Module 11 assignment and activities files.
 
 # Overview
-In order for us to understand what factors make a car more or less expensive, I have explored the car price in relation to its year of make, condition and other key features. Since the dataset holds many type of cars by manufacturer, model, fuel efficiency, cylinders, etc', i've chose to explore only one type of vhicle first, so not to compear apples to orenges, then explored the entire dataset. 
+In order for us to understand what factors make a car more or less expensive, I have explored the car price in relation to its year of make, condition and other key features. Since the dataset holds many type of cars by manufacturer, model, fuel efficiency, cylinders, etc', i've chose to explore only one type of vhicle first, so not to compear apples to orenges, then explored the entire dataset. The cingular car exploration is not included in the scop of this submission. 
 
 
 # summary of findings
